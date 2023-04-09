@@ -1,0 +1,15 @@
+{
+  "name": "book-analyzer",
+  "version": "1.0.0",
+  "description": "a book analyzer that lers you get detalis about a book with it's isbn, it uses the openlibraryorg api but returns json by default",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdelrahman Anwar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.5",
+    "express": "^4.18.2"
+  }
+}
