@@ -1,7 +1,7 @@
 {
   "name": "book-analyzer",
   "version": "1.0.0",
-  "description": "a book analyzer that lers you get detalis about a book with it's isbn, it uses the openlibraryorg api but returns json by default",
+  "description": "a book analyzer that lets you get detalis about a book with it's isbn, it uses the openlibraryorg api but returns json by default",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
